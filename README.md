@@ -3,7 +3,7 @@
 Le projet vise à élaborer un logiciel permettant à deux joueurs de s'affronter dans le jeu "3
 SPOT GAME". Inspiré par les principes de stratégie et de réflexion, ce jeu se déroule sur un plateau
 de jeu composé de 9 carrés, parmi lesquels 3 sont désignés comme des "spots". Chaque joueur
-dispose d'une pièce colorée, et le but est d'atteindre 12 points tout en empêchant l'adversaired'atteindre ce score.
+dispose d'une pièce colorée, et le but est d'atteindre 12 points tout en empêchant l'adversaire d'atteindre ce score.
 
 Les joueurs doivent déplacer leur pièce
 sur le plateau en suivant les règles spécifiées, ce qui
